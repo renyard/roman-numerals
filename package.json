@@ -1,0 +1,15 @@
+{
+  "name": "roman-numerals",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/roman-numerals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Renyard",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-qunit": "~0.3.0"
+  }
+}
